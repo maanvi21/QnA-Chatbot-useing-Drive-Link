@@ -69,7 +69,7 @@ Instructions:
 - Ignore and exclude any data about other individuals.
 - If no information is found for the named person, say: "No information found for the specified person."
 - Include only factual data mentioned in the context: CGPA, grades, skills, projects, or experience.
-- If asking for names of people who know a particular skill, experience , grade tec then give list of names of people associated with that particular skill, experience, grade.
+- If asking for names of people who know a particular skill, experience , grade tec then give list of names of people associated with that particular
 
 Answer:"""
     )
