@@ -1,0 +1,283 @@
+[
+  {
+    "input": "What are the grades of John Doe?",
+    "output": "Math: A\nScience: B\nEnglish: A-"
+  },
+  {
+    "input": "Give the CGPA of Alice Johnson.",
+    "output": "Alice Johnson's CGPA is 8.7 on a 10-point scale."
+  },
+  {
+    "input": "List the technical skills of Priya Sharma.",
+    "output": "Priya Sharma is skilled in Python, SQL, and Machine Learning."
+  },
+  {
+    "input": "Tell me about the internships of Ramesh Iyer.",
+    "output": "Ramesh Iyer interned at Infosys as a Data Analyst Intern for 2 months and at Deloitte as a Risk Consultant Intern."
+  },
+  {
+    "input": "What was the final year project of Meena K?",
+    "output": "Meena K's final year project was 'AI-based Skin Cancer Detection using Deep Learning'."
+  },
+  {
+    "input": "Does Ankit have any certifications?",
+    "output": "Yes, Ankit has certifications in AWS Cloud Practitioner and Google Data Analytics."
+  },
+  {
+    "input": "Which programming languages does Sunil use?",
+    "output": "Sunil is proficient in Java, C++, and Python."
+  },
+  {
+    "input": "Mention the tools known by Karthik Reddy.",
+    "output": "Karthik Reddy is familiar with tools like Tableau, Power BI, and Excel."
+  },
+  {
+    "input": "List the soft skills of Neha Singh.",
+    "output": "Neha Singh demonstrates leadership, communication, and time management skills."
+  },
+  {
+    "input": "What is the experience of Farhan?",
+    "output": "Farhan has 1 year of experience working as a Software Developer at TCS."
+  },
+  {
+    "input": "Show me the education details of Rahul V.",
+    "output": "Rahul V completed his B.Tech in Computer Science from VIT, with a CGPA of 8.5."
+  },
+  {
+    "input": "What are the achievements of Shruti?",
+    "output": "Shruti was a national finalist in Smart India Hackathon and won the Best Paper award at IEEE TechSym 2023."
+  },
+  {
+    "input": "List extracurriculars of Aisha.",
+    "output": "Aisha was part of the college dance team and volunteered at NGO Youth4India."
+  },
+  {
+    "input": "Does Ritu have any publications?",
+    "output": "Yes, Ritu published a paper on 'Blockchain in Healthcare' in Springer Journal, 2023."
+  },
+  {
+    "input": "Give me the projects done by Rohit M.",
+    "output": "Rohit M worked on projects like 'Chatbot for College Helpdesk' and 'Stock Market Prediction using LSTM'."
+  },
+  {
+    "input": "Who has the highest CGPA?",
+    "output": "Sorry, I can only answer questions about a specific individual."
+  },
+  {
+    "input": "What is the CGPA of someone named Jennifer?",
+    "output": "No information found for the specified person."
+  },
+   {
+    "input": "Is Rahul fit for ML job?",
+    "output": "Yes, Rahul has a strong background in Machine Learning with relevant internships and projects."
+  },
+  {
+    "input": "Does Abhay have any data science experience?",
+    "output": "Yes, Abhay completed a 6-month data science internship at Fractal Analytics."
+  },
+  {
+    "input": "Tell me about Mahesh's work experience.",
+    "output": "Mahesh has 2 years of experience as a Backend Developer at Cognizant."
+  },
+  {
+    "input": "Give the academic performance of Deepa.",
+    "output": "Deepa secured 91% in 10th, 89% in 12th, and 8.4 CGPA in B.E."
+  },
+  {
+    "input": "What are the grades of Vikram Nair?",
+    "output": "Vikram Nair scored A in Math, B+ in Physics, and A- in Chemistry."
+  },
+  {
+    "input": "What is the CGPA of Ananya Sharma?",
+    "output": "Ananya Sharma's CGPA is 8.9 on a 10-point scale."
+  },
+  {
+    "input": "List the technical skills of Rahul Mishra.",
+    "output": "Rahul Mishra is skilled in React, SQL, and Java."
+  },
+  {
+    "input": "Who knows React?",
+    "output": "Many individuals know React, including Priya Sharma, Rahul Mishra, and Ananya Sharma."
+  },
+  {
+    "input": "Tell me about the internships of Kavya Mehta.",
+    "output": "Kavya Mehta interned at TCS as a Data Analyst for 3 months."
+  },
+  {
+    "input": "What was the final year project of Pooja Reddy?",
+    "output": "Pooja Reddy's final year project was 'Fake News Detector'."
+  },
+  {
+    "input": "Does Tarun Kumar have any certifications?",
+    "output": "Yes, Tarun Kumar has certifications in Azure Fundamentals and AWS Solutions Architect."
+  },
+  {
+    "input": "Mention the tools known by Ajay Singh.",
+    "output": "Ajay Singh is familiar with tools like Postman, Docker, and Figma."
+  },
+  {
+    "input": "List the soft skills of Sneha Kapoor.",
+    "output": "Sneha Kapoor demonstrates teamwork, communication, and problem-solving skills."
+  },
+  {
+    "input": "What is the experience of Rajat Verma?",
+    "output": "Rajat Verma has 2 years of experience working at Cognizant."
+  },
+  {
+    "input": "Show me the education details of Divya Patel.",
+    "output": "Divya Patel completed B.Tech in Computer Science from IIT Bombay, with a CGPA of 8.6."
+  },
+  {
+    "input": "What are the achievements of Pooja Verma?",
+    "output": "Pooja Verma won the Smart India Hackathon and published a paper in IEEE Xplore."
+  },
+  {
+    "input": "What are the grades of Tarun Nair?",
+    "output": "Tarun Nair scored A in Math, A- in Physics, and B+ in Chemistry."
+  },
+  {
+    "input": "Give the CGPA of Kavya Kumar.",
+    "output": "Kavya Kumar's CGPA is 8.75 on a 10-point scale."
+  },
+  {
+    "input": "List the technical skills of Ajay Sharma.",
+    "output": "Ajay Sharma is skilled in Java, Python, and TensorFlow."
+  },
+  {
+    "input": "Tell me about the internships of Ananya Mishra.",
+    "output": "Ananya Mishra interned at Deloitte as a DevOps Engineer for 2 months."
+  },
+  {
+    "input": "What was the final year project of Rajat Mehta?",
+    "output": "Rajat Mehta's final year project was 'Smart Traffic Light System'."
+  },
+  {
+    "input": "Does Divya Singh have any certifications?",
+    "output": "Yes, Divya Singh has certifications in PMP and Google Data Analytics."
+  },
+  {
+    "input": "Mention the tools known by Sneha Reddy.",
+    "output": "Sneha Reddy is familiar with tools like Tableau, Linux, and Airflow."
+  },
+  {
+    "input": "List the soft skills of Tarun Patel.",
+    "output": "Tarun Patel demonstrates leadership, time management, and teamwork skills."
+  },
+  {
+    "input": "What is the experience of Vikram Verma?",
+    "output": "Vikram Verma has 18 months of experience working at Infosys."
+  },
+  {
+    "input": "Show me the education details of Kavya Sharma.",
+    "output": "Kavya Sharma completed B.Tech in Computer Science from IIT Bombay, with a CGPA of 9.1."
+  },
+  {
+    "input": "What are the achievements of Ajay Kumar?",
+    "output": "Ajay Kumar won the Smart India Hackathon and published in Springer."
+  },
+  {
+    "input": "List extracurriculars of Sneha Patel.",
+    "output": "Sneha Patel was part of the college drama club and volunteered at NGO Teach for India."
+  },
+  {
+    "input": "Does Ramesh have any publications?",
+    "output": "Yes, Ramesh published a paper on 'AI in Healthcare' in IEEE Journal, 2023."
+  },
+  {
+    "input": "Give me the projects done by Priya Mehta.",
+    "output": "Priya Mehta worked on projects like 'E-commerce Recommendation System' and 'IoT-based Smart Home Automation'."
+  },
+  {
+    "input": "Who has the lowest CGPA?",
+    "output": "Sorry, I can only answer questions about a specific individual."
+  },
+  {
+    "input": "What is the CGPA of someone named Rahul?",
+    "output": "No information found for the specified person."
+  },
+  {
+    "input": "Does Ankit have any machine learning experience?",
+    "output": "Yes, Ankit completed a 3-month machine learning internship at DataMinds."
+  },
+  {
+    "input": "Tell me about Meena's work experience.",
+    "output": "Meena has 1 year of experience as a Frontend Developer at Wipro."
+  },
+  {
+    "input": "Give the academic performance of Ritu Sharma.",
+    "output": "Ritu Sharma secured 92% in 10th, 90% in 12th, and 8.8 CGPA in B.Tech."
+  },{
+    "input": "Who knows Python?",
+    "output": "Many individuals know Python, including Priya Sharma, Ajay Sharma, and Ankit."
+  },
+  {
+    "input": "Who knows React?",
+    "output": "Many individuals know React, including Rajat Mehta, Neha Singh, Rohit M."
+  },
+  {
+    "input": "Who knows Python?",
+    "output": "Many individuals know Python, including Rajat Mehta, Aisha, Tarun Patel."
+  },
+  {
+    "input": "Who knows SQL?",
+    "output": "Many individuals know SQL, including Divya Singh, Rajat Mehta, Pooja Verma."
+  },
+  {
+    "input": "Who knows Java?",
+    "output": "Many individuals know Java, including Karthik Reddy, Rahul Mishra, Rohit M."
+  },
+  {
+    "input": "Who knows Power BI?",
+    "output": "Many individuals know Power BI, including Neha Singh, Ananya Sharma, Farhan."
+  },
+  {
+    "input": "Who knows Tableau?",
+    "output": "Many individuals know Tableau, including Ananya Sharma, Vikram Verma, Aisha."
+  },
+  {
+    "input": "Who knows AWS?",
+    "output": "Many individuals know AWS, including John Doe, Pooja Verma, Rohit M."
+  },
+  {
+    "input": "Who knows Docker?",
+    "output": "Many individuals know Docker, including Ritu, Alice Johnson, Karthik Reddy."
+  },
+  {
+    "input": "Who knows TensorFlow?",
+    "output": "Many individuals know TensorFlow, including Ramesh Iyer, Aisha, Sneha Kapoor."
+  },
+  {
+    "input": "Who knows Kubernetes?",
+    "output": "Many individuals know Kubernetes, including Tarun Patel, Farhan, Vikram Verma."
+  },
+  {
+    "input": "Who is fit for a AI job?",
+    "output": "Rohit M is fit for a AI job due to their hands-on with Docker and Kubernetes and strong Python skills."
+  },
+  {
+    "input": "Who is fit for a Data Analyst job?",
+    "output": "Meena K is fit for a Data Analyst job due to their experience with TensorFlow and problem-solving mindset."
+  },
+  {
+    "input": "Who is fit for a Backend Developer job?",
+    "output": "Aisha is fit for a Backend Developer job due to their experience in cloud platforms and SQL expertise."
+  },
+  {
+    "input": "Who is fit for a DevOps job?",
+    "output": "Divya Singh is fit for a DevOps job due to their problem-solving mindset and data visualization skills."
+  },
+  {
+    "input": "Who is fit for a Cloud Engineer job?",
+    "output": "Tarun Patel is fit for a Cloud Engineer job due to their strong Python skills and experience in cloud platforms."
+  },
+  {
+    "input": "Who is fit for a ML Engineer job?",
+    "output": "Ajay Kumar is fit for a ML Engineer job due to their experience with TensorFlow and knowledge of machine learning algorithms."
+  },
+  {
+    "input": "Who is fit for a Business Analyst job?",
+    "output": "Ajay Kumar is fit for a Business Analyst job due to their problem-solving mindset and data visualization skills."
+  }
+
+
+]
